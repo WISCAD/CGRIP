@@ -4,7 +4,7 @@ Supported by **NSF award 1608040**
 
 CGRIP is a fast routing congestion analysis tool. It captures a number of factors that contribute to congestion in modern designs such as varying wire size and spacing at different metal layers, routing blockages, and virtual pins at different metal layers. It works with a flexible model of global routing which is an extension of the mathematical model given in GRIP. The model is based on regional minimization of overflow, as an objective introduced to quickly identify the locations of the congested regions which are specified by an input resolution parameter. A further extension (LCGRIP in ISPD'13) introduces vertex capacity and non-uniform gcell generation to reduce mismatch with detailed routing caused by local nets.
 
-A simple variation of CGRIP, called coalesCgrip, was used to judge the ISPD 2011 contest (http://www.ispd.cc/contests/11/ispd2011_contest.html) and was mentioned in this EETimes article (https://www.eetimes.com/ISPD-reveals-3-D--maskless-lithography-trends-/). Information about the procedures of CGRIP and coalesCgrip and their comparison are given in the paper and presentation slides included.
+A simple variation of CGRIP, called coalesCgrip, was used to judge the [ISPD 2011 contest](http://www.ispd.cc/contests/11/ispd2011_contest.html) and was mentioned in this [EETimes article](https://www.eetimes.com/ISPD-reveals-3-D--maskless-lithography-trends-/). Information about the procedures of CGRIP and coalesCgrip and their comparison are given in the paper and presentation slides included.
 
 **Related Publications:**
 
